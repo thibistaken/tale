@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Thibaud"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Bitcoin profundly changes the self. It is mind-bending. It changes me everyday. The orange pill expands the mind and helps me think about many subject matters. Monetary history, economics, nutrition, family, markets, philosophy, political theory and stoïcism are some of these curiosities. I know I'm not alone in this.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+During this journey of intellectual discovery, I'm on Twitter learning from people and some individuals that I'm lucky to now call friends, some of whom I have never met in meatspace.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+While reading articles or listening to podcasts about Bitcoin, I've become fascinated its inevitable force altering our societal norms, by changing the individual, proning for unrestricted responsibility and sovereignty.
 
-Thanks for reading!
+I write about some of these reflections on this blog. Obviously, you can find me on [Twitter](https://twitter.com/thibm_). Drop me a line if you want to chat [here](mailto:hito@thibm.net)
+
+Peace.
